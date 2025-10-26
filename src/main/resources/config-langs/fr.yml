@@ -205,3 +205,5 @@ customItemsFile:
       name: Quel nom l’article doit porter (codes de formatage possibles : tels que &6)
       lore: Ce qui doit être dans la lore de l’objet
       customModelData: Custom Model Data Tag.  Le numéros specifique « Custom Model Data » que l’objet nécessite pour être accepté comme ingrédient.
+
+# Update: 2025-10-26
